@@ -1,0 +1,12 @@
+html,
+body {
+    margin: 0;
+}
+
+a {
+    -o-transition: .5s !important;
+    -ms-transition: .5s !important;
+    -moz-transition: .5s !important;
+    -webkit-transition: .5s !important;
+    transition: .5s !important;
+}

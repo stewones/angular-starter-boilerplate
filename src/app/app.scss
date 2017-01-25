@@ -1,0 +1,20 @@
+/*
+customize bulma variables
+http://bulma.io/documentation/overview/variables/
+
+$blue: #72d0eb;
+$pink: #ffb3b3;
+$orange: orange;
+$family-serif: "Georgia", serif;
+
+$danger: $orange;
+$family-primary: $family-serif;
+*/
+
+$red: #fe1d12;
+$primary: $red;
+
+@import "~bulma";
+
+@import "../theme/layout.scss";
+@import "../pages/home/home.scss";
