@@ -13,8 +13,8 @@ export class HomePage {
   constructor(public metaService: MetaService) { }
 
   ngOnInit() {
-    this.metaService.setTag('description', 'Home description');
-    this.metaService.setTag('keywords', 'home, keyword');
-    this.metaService.setTitle('Home title');
+    // this.metaService.setTag('description', 'Home description');
+    // this.metaService.setTag('keywords', 'home, keyword');
+    // this.metaService.setTitle('Home title');
   }
 }

@@ -24,9 +24,10 @@ const metaConfig: MetaConfig = {
   // defaults to false
   useTitleSuffix: true,
   defaults: {
-    title: 'Put your default title here',
+    title: 'Angular Starter Boilerplate',
+    description: 'A very useful angular2 starter seed kit',
     titleSuffix: '',
-    'og:image': '' // facebook open:graph image
+    'og:image': 'http://i.imgur.com/lVk8dGm.png' // facebook open:graph image
   }
 };
 

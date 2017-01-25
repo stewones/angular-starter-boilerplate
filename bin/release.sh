@@ -1,0 +1,1 @@
+rm -rf ./.tmp && mkdir ./.tmp && gulp build && cp -rf ./dist/* ./.tmp && cd ./.tmp && git init && git remote add origin https://github.com/st1s/angular-starter-boilerplate && cp -rf ../CNAME ./ && git add -A && git commit -am 'feat(): new release' && git checkout -b gh-pages && git push --force origin gh-pages
