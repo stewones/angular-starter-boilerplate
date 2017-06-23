@@ -1,5 +1,5 @@
 # Angular Starter Boilerplate
-> A better seed starter
+> A better seed starter. deprecated in favor of the new [Angular CLI](https://cli.angular.io/)
 
 # Requirements
 > Latest node and npm
