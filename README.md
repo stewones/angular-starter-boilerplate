@@ -3,11 +3,18 @@
 
 # Requirements
 > Latest node and npm
+or
+> Latest node and yarn
 
 # Install
 
 ```js
 $ git clone github.com/st1s/angular-starter-boilerplate && cd angular-starter-boilerplate && npm install
+```
+or 
+
+```js
+$ git clone github.com/st1s/angular-starter-boilerplate && cd angular-starter-boilerplate && yarn install
 ```
 
 # Included
